@@ -10,19 +10,29 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, Install the dependencies:
 
 ```bash
 pnpm install
+```
+
+First, run the development server:
+```bash
 pnpm dev
+```
+
+You can compile and build the application with:
+```bash
 pnpm build
 ```
 
+If you prefer to use npm or yarn just delete the pnpm-lock.yaml file and go ahead.
 ## Documentation
 
 React: https://reactjs.org/
 Next.js: https://nextjs.org/docs
 NextUI: https://nextui.org/
+PNPM: https://pnpm.io/es/
 Canvas-Confetti: https://www.npmjs.com/package/canvas-confetti
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
